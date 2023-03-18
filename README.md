@@ -1,7 +1,7 @@
 ### Oiii eu sou a Cintia Moreira 👋
 
 - 🔭 Sou estagiária em Sustentação de Tecnologia 
-- 🌱 estudante de Sistema de Informação e curso Cetified Tech Developer
+- 🌱 Estudante de Sistema de Informação e curso Certified Tech Developer
 - 😄 Pronomes: Dela/Ela
 
 <div style="display: inline_block"><br>
