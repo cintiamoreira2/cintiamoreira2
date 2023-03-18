@@ -16,7 +16,7 @@
   <img align="center" alt="Rafa-trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"> 
   <img align="center" alt="Rafa-trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
           
-  <img align="right" alt="Cin-pic" height="150" style="border-radius:50px;" src="https://www.canva.com/design/DAFdf6RtduU/bin0C_PV2oPCfgF8Hg4ehA/view?utm_content=DAFdf6RtduU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+  <img align="right" alt="Cin-pic" height="150" style="border-radius:50px;" src="https://avatar.canva.com/avatars/users/d94dcb92-da13-4169-bc79-aecae8526027/50.png">
 </div>
   
   ##
