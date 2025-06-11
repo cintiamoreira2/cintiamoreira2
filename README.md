@@ -1,8 +1,8 @@
 <h1 align="center">Olá, eu sou a Cíntia Moreira 👋</h1>
 
 <p align="center">
-  🔍 Estagiária em Sustentação de Tecnologia | 💻 Estudante de Sistemas de Informação  
-  🚀 Aluna do Certified Tech Developer | 😄 Pronomes: Ela/Dela
+  🔍 Analista de TI em Sustentação de Tecnologia | 💻 Bacharel em Sistemas de Informação<br>
+  🚀 Aluna do programa Certified Tech Developer | 😄 Pronomes: Ela/Dela
 </p>
 
 ---
@@ -42,7 +42,8 @@ Sou apaixonada por tecnologia e inovação, e estou construindo minha carreira c
 - **Power Platform:** Power Automate, Power Apps  
 - **Bancos de Dados:** SQL Server, MySQL, PostgreSQL  
 - **Documentação e Gestão:** Confluence, SharePoint, Draw.io, Miro  
-- **Desenvolvimento e API:** JavaScript, C, HTML, CSS, Postman, Git  
+- **Desenvolvimento e API:** JavaScript, C, HTML, CSS, Postman, Git
+- **Cloud:** Azure, AWS e OCI
 - **Containers:** Docker e Docker Compose  
 - **Service Management:** BMC Helix  
 - **Metodologias Ágeis:** Scrum e Kanban  
@@ -55,7 +56,6 @@ Sou apaixonada por tecnologia e inovação, e estou construindo minha carreira c
 - Backend com C# e .NET Core (REST APIs)
 - Frontend com AngularJS
 - Microsserviços
-- Azure
 
 ---
 
