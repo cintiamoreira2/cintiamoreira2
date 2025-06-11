@@ -9,7 +9,7 @@
 
 ## 💼 Sobre mim
 
-Sou apaixonada por tecnologia e inovação, e estou construindo minha carreira com foco em sustentação de sistemas, automações com ferramentas low-code, documentação e entrega de valor em ambientes ágeis.
+Sou apaixonada por tecnologia e inovação, e estou construindo minha carreira com foco em sustentação de sistemas, desenvolvimento de projetos e automações com ferramentas low-code, documentação e entrega de valor em ambientes ágeis.
 
 ---
 
