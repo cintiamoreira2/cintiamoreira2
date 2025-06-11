@@ -65,6 +65,11 @@ Sou apaixonada por tecnologia e inovação, e estou construindo minha carreira c
 Sistema completo de envio e consulta de documentos para empresas listadas, com backend em .NET e frontend em AngularJS + Docker.  
 > *Tecnologias: .NET 6, AngularJS, SQL Server, Docker, REST API*
 
+📚 **[Biblioteca Digital](https://github.com/cintiamoreira2/Bibliotecaonline-checkpoint/tree/main)**  
+Aplicação web para cadastro e visualização de livros com sinopses, exportação de lista em Excel e PDF, acessibilidade aprimorada e suporte a tema claro/escuro.  
+> *Tecnologias: HTML5, CSS3, JavaScript ES6, jsPDF, SheetJS*
+
+
 ---
 
 ## 📫 Onde me encontrar
