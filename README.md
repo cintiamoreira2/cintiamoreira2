@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Cíntia Moreira 👋</h1>
 
 <p align="center">
-  🔍 Analista de TI em Sustentação de Tecnologia | 💻 Bacharel em Sistemas de Informação<br>
+  🔍 Analista de TI em Sustentação de Tecnologia | 💻 Bacharel em Sistemas de Informação e Administração<br>
   🚀 Aluna do programa Certified Tech Developer | 😄 Pronomes: Ela/Dela
 </p>
 
