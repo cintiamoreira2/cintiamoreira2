@@ -24,7 +24,7 @@ Sou apaixonada por tecnologia e inovação, e estou construindo minha carreira c
 
   <!-- Banco de dados -->
   <img title="SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img title="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
+  <img title="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img title="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
 
   <!-- Ferramentas e plataformas -->
@@ -61,7 +61,7 @@ Sou apaixonada por tecnologia e inovação, e estou construindo minha carreira c
 
 ## 💻 Projetos em destaque
 
-🗂️ **[GovReport.NET](https://github.com/seu-usuario/govreport)**  
+🗂️ **[GovReport.NET](https://github.com/cintiamoreira2/govreport)**  
 Sistema completo de envio e consulta de documentos para empresas listadas, com backend em .NET e frontend em AngularJS + Docker.  
 > *Tecnologias: .NET 6, AngularJS, SQL Server, Docker, REST API*
 
